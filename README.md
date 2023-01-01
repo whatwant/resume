@@ -81,4 +81,4 @@ resume
 ![Screenshot](samples/markdown.png)
 
 ### [Resume Generator](https://github.com/epsalt/resume-builder)
-![Screenshot](sample/generator.png)
+![Screenshot](samples/generator.png)
