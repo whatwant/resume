@@ -41,7 +41,7 @@
 ### [Researcher](https://github.com/ankitsultana/researcher)
 ![Screenshot](samples/researcher.png)
 
-### [modern-resume-theme](https://github.com/sproogen/modern-resume-theme)
+### [modern-resume-theme](https://github.com/sproogen/modern-resume-theme) [Best Practice](https://taetaetae.github.io/resume/)
 ![Screenshot](https://github.com/sproogen/modern-resume-theme/blob/master/screenshot.png)
 
 ### [Crisp Minimal Résumé](https://github.com/crispgm/resume)
